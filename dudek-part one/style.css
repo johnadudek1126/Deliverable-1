@@ -1,0 +1,26 @@
+ul { 
+    list-style: none;
+    background-color: #F2F2F2;
+    font-family: Roboto;
+    padding: 12px;
+    border-radius: 10px;
+    text-align: right;
+}
+ul li { display: inline;
+ }
+ .parent {
+        position: relative;
+  }
+  
+  .child {
+    border-radius: 25px;
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+    display: inline;
+    color:#F2F2F2;
+    background-color: #20a8b4;
+    position: static;
+    top: 50px;
+    left: 50px;
+  }
